@@ -22,6 +22,9 @@
 		9DB5773A2E35CB8E001CEC13 /* mandelbrot */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = mandelbrot; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DB5773D2E35CB8E001CEC13 /* mandelbrot.dsk */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = mandelbrot.dsk; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DB577422E35CB8E001CEC13 /* doNotBuild */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = doNotBuild; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DB577D42E499404001CEC13 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9DB577D52E499440001CEC13 /* mandelbrot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mandelbrot.png; sourceTree = "<group>"; };
+		9DB577D62E4996C1001CEC13 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
@@ -68,6 +71,9 @@
 		9DB577332E35CB8E001CEC13 = {
 			isa = PBXGroup;
 			children = (
+				9DB577D62E4996C1001CEC13 /* LICENSE */,
+				9DB577D42E499404001CEC13 /* README.md */,
+				9DB577D52E499440001CEC13 /* mandelbrot.png */,
 				9DB577432E35CB8E001CEC13 /* mandelbrot */,
 				9DB5773B2E35CB8E001CEC13 /* Products */,
 			);
